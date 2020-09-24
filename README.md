@@ -12,16 +12,13 @@
 </table>
 
 #### Mi primer programa de ejemplo en lenguaje pascal.
-<br>
 <a href="programa1.pas">Mi primer Programa</a>
 <br>
 
 #### Mi segundo programa de ejemplo en leguanje pascal.
-<br>
 <a href="programa2.pas">Mi segundo Programa</a>
 <br>
 
 #### Mi tercer programa de ejemplo en lenguaje pascal.
-<br>
 <a href="programa3.pas">Mi tercer Programa</a>
 
